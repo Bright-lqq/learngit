@@ -5,3 +5,7 @@ A new file is created.
 first modifying
 
 secon modifying
+
+First modification, added to the temporary storage area
+
+Second modification, not added to the temporary storage area
