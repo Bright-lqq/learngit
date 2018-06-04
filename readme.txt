@@ -11,3 +11,5 @@ First modification, added to the temporary storage area
 Second modification, not added to the temporary storage area
 
 a new commit
+
+fix bug
